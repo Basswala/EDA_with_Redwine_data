@@ -10,7 +10,6 @@ The project covers:
 	•	Regression models to predict quality scores
 	•	Model Interpretability for real-world insights
 
-⸻
 
 🎯 Objectives
 	•	Understand how physicochemical properties influence wine quality.
@@ -18,7 +17,6 @@ The project covers:
 	•	Compare model performance (Linear Regression, Random Forest, XGBoost).
 	•	Interpret model results with explainability tools (SHAP).
 
-⸻
 
 📂 Dataset Details
 	•	Source: UCI Machine Learning Repository
@@ -27,7 +25,6 @@ The project covers:
 	•	Features: 11 physicochemical properties (e.g., acidity, sugar, sulphates, alcohol)
 	•	Target Variable: quality (wine quality score, 0–10, by wine experts)
 
-⸻
 
 🧭 Workflow
 
@@ -57,14 +54,14 @@ The project covers:
 	•	Feature importances (tree-based models)
 	•	SHAP values → interpret what drives quality
 
-⸻
+
 
 📊 Key Insights
 	•	Alcohol is the strongest predictor of wine quality.
 	•	Wines with low volatile acidity and higher sulphates tend to score higher.
 	•	Ensemble methods (Random Forest, XGBoost) capture non-linear patterns better than linear models.
 
-⸻
+
 
 ⚙️ Tools & Libraries
 	•	Python 3.12
@@ -74,7 +71,7 @@ The project covers:
 	•	XGBoost
 	•	SHAP
 
-⸻
+
 
 📈 Results (Example)
 	•	Linear Regression R²: ~0.20
